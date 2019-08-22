@@ -1,2 +1,6 @@
 help?
+<<<<<<< HEAD
 i am trying my best
+=======
+not yet
+>>>>>>> 217a065a80eb52b1d0d3141a35c17b42fc505dac
